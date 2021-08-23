@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+  <id number=”1001”>
+    <location>
+      <coords>
+        <lat>40.002382</lat>
+        <lng>-83.015958</lng>
+      </coords>
+    </location>
+    <contact>
+      <dept>CSE Department</dept>
+    </contact>
+  </id>
+</tickets>
